@@ -22,7 +22,7 @@
     "lint": "prettier --write gatsby-node.js"
   },
   "dependencies": {
-    "gatsby-source-filesystem": "^2.3.37",
+    "gatsby-source-filesystem": "^3.3.0",
     "parse": "^2.18.0"
   },
   "devDependencies": {
